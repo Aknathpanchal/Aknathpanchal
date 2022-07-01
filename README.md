@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aknathpanchal&label=Profile%20views&color=0e75b6&style=flat" alt="aknathpanchal" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aknathpanchal" alt="aknathpanchal" /></a> </p>
+
+- 🌱 I’m currently learning <p>Node.js</p>
 
 - 📫 How to reach me **shree.d.panchal1999@gmail.com**
 
