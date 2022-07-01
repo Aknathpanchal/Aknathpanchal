@@ -21,11 +21,19 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aknathpanchal" alt="aknathpanchal" /></a> </p>
 
-- 🌱 I’m currently learning <p>Node.js</p>
+- 🌱 I’m currently learning **Redux, Node.js**
+
+- 👯 I’m looking to collaborate on **competitive programming.**
+
+- 👨‍💻 All of my projects are available at [https://spiffy-baklava-711e3a.netlify.app/](https://spiffy-baklava-711e3a.netlify.app/)
+
+- 💬 Ask me about **MERN stack, competitive programming.**
 
 - 📫 How to reach me **shree.d.panchal1999@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/129FosOu-ZW6UZqp31wj-l58TRuqRoM9X/view?usp=sharing](https://drive.google.com/file/d/129FosOu-ZW6UZqp31wj-l58TRuqRoM9X/view?usp=sharing)
+
+- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
