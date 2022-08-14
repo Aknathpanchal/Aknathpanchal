@@ -5,28 +5,27 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I am currently working on ...
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 👯 I am looking to collaborate on ...
+- 🤔 I am looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Shreenath</h1>
+<h1 align="center">Hi 👋, I am Shreenath</h1>
 <h3 align="center">A passionate full-Stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aknathpanchal&label=Profile%20views&color=0e75b6&style=flat" alt="aknathpanchal" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aknathpanchal" alt="aknathpanchal" /></a> </p>
 
-- 🌱 I’m currently learning **Redux, Node.js**
+- 🌱 I am currently learning **Redux, Node.js**
 
-- 👯 I’m looking to collaborate on **competitive programming.**
+- 👯 I am looking to collaborate on **competitive programming.**
 
-- 👨‍💻 All of my projects are available at [https://shreenathpanchal-portfolio.netlify.app/](https://shreenathpanchal-portfolio.netlify.app/)
-
+- 👨‍💻 All of my projects are available at <a href="https://shreenathpanchal-portfolio.netlify.app/">Portfolio </a>
 - 💬 Ask me about **MERN stack, competitive programming.**
 
 - 📫 How to reach me **shree.d.panchal1999@gmail.com**
