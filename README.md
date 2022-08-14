@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on **competitive programming.**
 
-- 👨‍💻 All of my projects are available at [https://spiffy-baklava-711e3a.netlify.app/](https://spiffy-baklava-711e3a.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://shreenathpanchal-portfolio.netlify.app/](https://shreenathpanchal-portfolio.netlify.app/)
 
 - 💬 Ask me about **MERN stack, competitive programming.**
 
