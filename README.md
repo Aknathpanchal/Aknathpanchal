@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 👯 I am looking to collaborate on **competitive programming.**
 
-- 👨‍💻 All of my projects are available at <a href="https://shreenathpanchal-portfolio.netlify.app/">Portfolio </a>
+- 👨‍💻 All of my projects are available at <a href="https://shreenathpanchal-portfolio.netlify.app/" target="_blank">Portfolio </a>
 - 💬 Ask me about **MERN stack, competitive programming.**
 
 - 📫 How to reach me **shree.d.panchal1999@gmail.com**
