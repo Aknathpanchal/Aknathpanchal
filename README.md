@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 - 👨‍💻 All of my projects are available at <a href="https://shreenath-panchal-portfolio.netlify.app/" target="_blank">Portfolio </a>
 - 💬 Ask me about **MERN stack, competitive programming.**
 
-- 📫 How to reach me **shree.d.panchal1999@gmail.com**
+- 📫 How to reach me <a href="mailto:shree.d.panchal1999@gmail.com">Email</a>
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/129FosOu-ZW6UZqp31wj-l58TRuqRoM9X/view?usp=sharing](https://drive.google.com/file/d/129FosOu-ZW6UZqp31wj-l58TRuqRoM9X/view?usp=sharing)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/129FosOu-ZW6UZqp31wj-l58TRuqRoM9X/view?usp=sharing">Resume</a>
 
 - ⚡ Fun fact **I think I am funny**
 
