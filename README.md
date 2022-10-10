@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me <a href="mailto:shree.d.panchal1999@gmail.com">Email</a>
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/129FosOu-ZW6UZqp31wj-l58TRuqRoM9X/view?usp=sharing">Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1O6108O251gPH9vuaMjHg6jLIXjAs16Z1/view">Resume</a>
 
 - ⚡ Fun fact **I think I am funny**
 
