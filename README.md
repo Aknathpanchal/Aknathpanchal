@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aknathpanchal" alt="aknathpanchal" /></a> </p>
 
-- 🌱 I am currently learning **Redux, Node.js**
+- 🌱 I am currently learning **Node.js**
 
 - 👯 I am looking to collaborate on **competitive programming.**
 
