@@ -25,12 +25,12 @@ Here are some ideas to get you started:
 
 - 👯 I am looking to collaborate on **competitive programming.**
 
-- 👨‍💻 All of my projects are available at <a href="https://shreenath-panchal-portfolio.netlify.app/" target="_blank">Portfolio </a>
+- 👨‍💻 All of my projects are available at <a href="https://aknathpanchal.github.io/" target="_blank">Portfolio </a>
 - 💬 Ask me about **MERN stack, competitive programming.**
 
 - 📫 How to reach me <a href="mailto:shree.d.panchal1999@gmail.com">Email</a>
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1O6108O251gPH9vuaMjHg6jLIXjAs16Z1/view">Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1Npwf5ZEBSocYG9aka3WICNYRuymg0cE6/view?usp=sharing">Resume</a>
 
 - ⚡ Fun fact **I think I am funny**
 
